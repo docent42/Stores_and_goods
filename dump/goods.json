@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5dbec8b0f96cce4050494ff7"},"name":"шоколадка","price":{"$numberInt":"100"}}
+{"_id":{"$oid":"5dbec8d6f96cce4050494ff8"},"name":"сок","price":{"$numberInt":"88"}}
+{"_id":{"$oid":"5dbec900f96cce4050494ff9"},"name":"жевачка","price":{"$numberInt":"34"}}
+{"_id":{"$oid":"5dbec924f96cce4050494ffa"},"name":"сыр-швейцарский","price":{"$numberInt":"350"}}
+{"_id":{"$oid":"5dbec95bf96cce4050494ffb"},"name":"кока-кола(0,33)","price":{"$numberInt":"56"}}
+{"_id":{"$oid":"5dbec97bf96cce4050494ffc"},"name":"чупа-чупс","price":{"$numberInt":"25"}}
+{"_id":{"$oid":"5dbeccc1f38bd7162fc4f3d7"},"name":"пепси(0,33)","price":{"$numberInt":"66"}}
+{"_id":{"$oid":"5dc07051dd7b3717b88fd602"},"name":"vaffels","price":{"$numberInt":"123"}}

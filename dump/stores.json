@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5dbea23172247d358d728529"},"name":"Perekrestok","inStock":["vaffels","шоколадка","сок","жевачка"]}
+{"_id":{"$oid":"5dbec83df96cce4050494ff3"},"name":"Пятерочка","inStock":["шоколадка","сок","жевачка"]}
+{"_id":{"$oid":"5dbec854f96cce4050494ff4"},"name":"Двоечка","inStock":["сок","шоколадка"]}
+{"_id":{"$oid":"5dbec871f96cce4050494ff5"},"name":"Троечка","inStock":[]}
+{"_id":{"$oid":"5dbec88af96cce4050494ff6"},"name":"Семерочка","inStock":[]}
